@@ -1,0 +1,7 @@
+{
+    "serverPort": 4000,
+    "dbUrl": "mongodb+srv://specialhashmasks:1@cloud.wm1f0qe.mongodb.net/?retryWrites=true&w=majority&appName=cloud",
+    "secretKey": "SecretKey",
+    "filePath": "F:\\Learning_environment\\Course Project\\React\\React_Training\\ulbi_tv\\cloud_disk\\server\\files",
+    "staticPath": "F:\\Learning_environment\\Course Project\\React\\React_Training\\ulbi_tv\\cloud_disk\\server\\static"
+}
